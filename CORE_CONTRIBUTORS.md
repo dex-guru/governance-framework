@@ -7,3 +7,4 @@ https://github.com/kelar86 0x827780748f9ff4508c03f7edeeE5a3aE159ea7f1
 https://github.com/oushanskeen 0x2a6789cD1Bc2A9C77020c4b510B982696B51F63F
 https://github.com/evahteev 0x39ffc9b22F36BB0f5FFD82FEafAE89d63a928197
 https://github.com/GenkaOm 0xd8482BD64f067367e276fF99E92aa0C392fC83fD
+https://github.com/artyombespalov 0x1E5fc6Da89e93079c6198c050309B8c59d4910Be
