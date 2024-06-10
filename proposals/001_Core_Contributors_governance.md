@@ -17,10 +17,12 @@ To ensure the long-term prosperity of the Guru Network, we propose the following
 1. **Create Core Contributors Seasons** and align them with Community Incentives Seasons in terms of periods and distributed allocation.
 2. **Setup a Core Contributors Governance Framework** tasked with developing and proposing a Community Governance Framework before the Guru Network Mainnet launch.
 
-Out of the total token supply, 60% is allocated for distribution as follows:
+Out of the total token supply, 40% is allocated for distribution between Community and Core Contributors as follows:
 
+![distribution.png](assets/distribution.png)
+- 
 - **20% for Guru Seasons 1-5 Community:**  
-  Rewarding Season Pass NFT holders and active community participants. The distribution is divided into seasons, with Seasons 1-2 are gaining and boosting rewards by participation now (Testnet phase). Activities snapshot is done close to the Mainnet launch. Community Seasons 3-5 planned for the next 24 months as a continuous community incentives aligned with Core Contributors Seasons.
+  Rewarding Season Pass NFT holders and active community participants. The distribution is divided into seasons, with Seasons 1-2 are gaining and boosting rewards by participation now (Testnet phase). Activities snapshot will be done close to the Mainnet launch. Community Seasons 3-5 planned for the next 24 months as a continuous community incentives aligned with Core Contributors Seasons.
 
 - **20% for Core Contributors:**  
   Divided into seasonal allocations starting now with the Guru Network testnet phase. Governance and voting begin with core contributors, evolving into a polished Community Governance framework by the Mainnet launch. The current list of core contributors can be found here: [Core Contributors](../CORE_CONTRIBUTORS.md).
