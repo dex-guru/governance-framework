@@ -44,7 +44,7 @@ The community’s 20% allocation will be unlocked in phases (Seasons 1-5), encou
 
 The Community and Core Contributors Governance framework will be adjusted and proposed for discussion before Mainnet Launch. The framework proposed for Season 1 ([GuruDAO Bootstrap Guide](https://docs.dex.guru/gurudao/gurudao-bootstrap-guide)) will be adjusted to modern-day realities. The process will be public to ensure that no interested parties can back off those decisions without public consequences.
 
-A Multisig Safe with a balanced voting system will be used to provide every core contributor with a voice and voting rights. This system, combined with our Core Developers Seasons planned for the next two years, creates long-term incentives for the core contributors team.
+A Multisig Safe with a balanced voting system will be used to provide every core contributor with a voice and voting rights. This system, combined with our Core Contribotors Seasons planned for the next two years, creates long-term incentives for the core contributors team.
 
 ### List of Core Contributors
 
