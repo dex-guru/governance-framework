@@ -33,7 +33,7 @@ Out of the total token supply, 40% is allocated for distribution between Communi
 **Proposed unlocking system for the core contributors’ allocation:**
 
 - **First Unlock:**  
-  In six months starting from TGE, 5% of the total supply (20% of the Core Contributors' total) will be unlocked. Distribution will follow a traditional half-year/yearly review system based on contributions during the Testnet phase, Mainnet Launch, and Ecosystem Growth.  
+  In six months starting from TGE, 5% of the total supply (of 20% Core Contributors total) will be unlocked. Distribution will follow a traditional half-year/yearly review system based on contributions during the Testnet phase, Mainnet Launch, and Ecosystem Growth.  
 
 - **Subsequent Unlocks:**  
   Every six months, another 5% will unlock, maintaining rewards based on continuous performance. Core Contributors will vote for claim and distribution in 6-month periods further down the line, making it a total of 4 Core Contributors Seasons.
