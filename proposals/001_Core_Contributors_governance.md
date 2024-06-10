@@ -1,4 +1,4 @@
-# [PROPOSAL-001] Guru Network CC Incentives and Governance 
+# [PROPOSAL-001] Guru Network Core Contributors(CC) Incentives and Governance 
 
 ## Summary
 
