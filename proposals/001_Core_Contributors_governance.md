@@ -60,7 +60,6 @@ N/A
 
 - Encourages active community engagement and contributions.
 - Provides a structured and transparent reward system for core contributors.
-- Recognizes the significant role of VCs in supporting Guru Network’s growth.
 
 ## Cons
 
