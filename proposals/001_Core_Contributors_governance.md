@@ -33,14 +33,14 @@ Out of the total token supply, 40% is allocated for distribution between Communi
 **Proposed unlocking system for the core contributors’ allocation:**
 
 - **First Unlock:**  
-  In six months starting from today, 25% of the core contributors’ allocation will be unlocked. Distribution will follow a traditional half-year/yearly review system based on contributions during the Testnet phase, Mainnet Launch, and Ecosystem Growth.
+  In six months starting from TGE, 5% of the total supply (20% of the Core Contributors' total) will be unlocked. Distribution will follow a traditional half-year/yearly review system based on contributions during the Testnet phase, Mainnet Launch, and Ecosystem Growth.  
 
 - **Subsequent Unlocks:**  
-  Every six months, another 5% will unlock, maintaining rewards based on continuous performance.
+  Every six months, another 5% will unlock, maintaining rewards based on continuous performance. Core Contributors will vote for claim and distribution in 6-month periods further down the line, making it a total of 4 Core Contributors Seasons.
 
 ### Community Incentive Distribution Mechanism
 
-The community’s 20% allocation will be unlocked in phases (Seasons 1-5), encouraging ongoing engagement and contributions. Eligible community members include Season Pass NFT holders and active participants.
+The community’s 20% allocation will be unlocked in 4 phases (Seasons 1, 2; 3; 4; 5), encouraging ongoing engagement and contributions. A total of four community distributions are aligned with the same Core Contributors seasons. Eligible community members include Season Pass NFT holders and active participants.
 
 ### Governance Framework
 
@@ -58,6 +58,7 @@ N/A
 
 ## Pros
 
+- Encourages active Core Contributors engagement and contributions, providing long-term incentives aligned with community ones.
 - Encourages active community engagement and contributions.
 - Provides a structured and transparent reward system for core contributors.
 
