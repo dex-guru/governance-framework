@@ -8,3 +8,5 @@ https://github.com/oushanskeen 0x2a6789cD1Bc2A9C77020c4b510B982696B51F63F
 https://github.com/evahteev 0x39ffc9b22F36BB0f5FFD82FEafAE89d63a928197
 https://github.com/GenkaOm 0xd8482BD64f067367e276fF99E92aa0C392fC83fD
 https://github.com/artyombespalov 0x1E5fc6Da89e93079c6198c050309B8c59d4910Be
+https://github.com/maksdizzy 0x136E505B9b901A06F4192867466cA9736b747828
+https://github.com/lechatg 0x297354b08D2D70BB8634E5350fa27600b3BCBcc9
